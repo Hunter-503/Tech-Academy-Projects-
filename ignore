@@ -1,0 +1,6 @@
+echo "# Tech-Academy-Projects-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Hunter-503/Tech-Academy-Projects-.git
+git push -u origin master
